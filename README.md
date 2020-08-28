@@ -1,5 +1,5 @@
 # What is this?
-A little exploration of text analysis using job descriptions.
+An exploration of keywords in job descriptions using text analysis.
 
 I wanted to see which key words were showing up most often in the kinds of jobs I was applying to. 
 This seemed like a perfect opportunity to get my feet wet with text analysis in Python, and I wanted to make a wordcloud to make the analysis easily interpretable visually.
